@@ -1,0 +1,10 @@
+import os
+print(os.name)
+# print(os.environ)
+# # print(os.environ.get('PATH'))
+# s = os.path.abspath('.')
+# new_file_path = os.path.join(s, 'test')
+# # os.mkdir(new_file_path)
+# os.rmdir(new_file_path)
+# print(os.path.abspath('.'))
+print(os.path.splitext(r'\path\filename.py'))
