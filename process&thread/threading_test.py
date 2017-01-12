@@ -11,8 +11,8 @@ def loop():
     print('thread %s ended.' % threading.current_thread().name)
 
 print('thread %s is running...' % threading.current_thread().name)
-t = threading.Thread(target=loop, name='my thread')
+t = threading.Thread(target=loop)
 t.start()
-# t.join()
+t.join()
 
 print('thread %s ended.' % threading.current_thread().name)
