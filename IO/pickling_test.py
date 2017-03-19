@@ -9,11 +9,14 @@ print(pickle_obj)
 with open('dump.txt', 'wb') as f:
 	x = ('name', True, 53)
 	pickle.dump(x, f)
-# 使用dumps方法，序列化后内容直接可以写入文件中
+# 使用dump方法，序列化后内容直接可以写入文件中
 
 # 反序列化
+# 用loads反序列化内存中的二进制对象
 unpickle_obj = pickle.loads(pickle_obj)
 print(unpickle_obj)
+
+# 用load反序列化文件中的二进制内容
 with open('dump.txt', 'rb') as f:
     unpickle_file = pickle.load(f)
     print(unpickle_file)
