@@ -4,6 +4,6 @@ def foo(s):
     return 10/n
 
 def main():
-    foo('0')
+    foo('1')
 
 main()
