@@ -1,0 +1,191 @@
+[33mcommit aa988b4a2ce3895fae21085d680efc01ee6dc7c4[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Wed Mar 29 15:36:40 2017 +0800
+
+    time
+
+[33mcommit 36ab953322edaf373a36d73ea8c831d120e2bd23[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sun Mar 19 21:35:44 2017 +0800
+
+    finished process and thread
+
+[33mcommit c31de5a026fba9f1ac9b5e1b5e69a7ea0ff39955[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Feb 10 18:53:23 2017 +0800
+
+    review and add
+
+[33mcommit 92086e06c9972239363be403c53dfd290400ece4[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sat Jan 14 21:40:00 2017 +0800
+
+    thread_WIP3
+
+[33mcommit bd38eb0cfc343049ff69be0903ee52f5d96a196f[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Thu Jan 12 21:23:57 2017 +0800
+
+    thread_wip2
+
+[33mcommit fc9e87729ea58abc8750adee6da30c91b7113626[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Wed Jan 11 21:47:19 2017 +0800
+
+    thread_WIP1
+
+[33mcommit 5954bd8648e8b344ae50017d78f362e1bd8632bd[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Tue Jan 3 21:34:41 2017 +0800
+
+    process_WIP2
+
+[33mcommit beacaef147e3805cf05bf12312ce4de5f3b6f6f9[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Mon Jan 2 22:33:05 2017 +0800
+
+    process_WIP1
+
+[33mcommit 2863b1ad531695996835ab61873e3beaca8bbe54[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sun Jan 1 23:33:26 2017 +0800
+
+    IO finished
+
+[33mcommit f41bb7bf5540914299d2caddc02b9540521023be[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sat Dec 31 23:50:06 2016 +0800
+
+    IO_WIP2
+
+[33mcommit 3417dc78b04bf8b6d063eaf27532a39cec8337cf[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Dec 30 21:08:05 2016 +0800
+
+    debug finished && IO WIP1
+
+[33mcommit bb62e7a8fd52d40c26284e46f190219daed0291f[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Dec 30 13:35:02 2016 +0800
+
+    closure2
+
+[33mcommit 217ee58eb695ef12c8290ae70b1b6cc6a1c0ba1b[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Thu Dec 29 22:03:29 2016 +0800
+
+    unit test
+
+[33mcommit 7b245f224d02872b741cbd3f1808dfcbc6d17551[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Thu Dec 29 14:24:36 2016 +0800
+
+    metaclass
+
+[33mcommit 37a76bf4cbf882ce8061f5e3cad350b74da0d4d6[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Tue Dec 27 21:21:53 2016 +0800
+
+    oop_wip5
+
+[33mcommit 04289954ccb4e577eb56987c09f02ee823617bb8[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Dec 23 00:34:36 2016 +0800
+
+    oop_wip4
+
+[33mcommit ae160325320a0d05d837175d321703121ed389a4[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Mon Dec 19 21:21:56 2016 +0800
+
+    oop-wip3
+
+[33mcommit 9935e8a89c7640d8bac87f2610e4984c12391082[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sun Dec 18 00:38:19 2016 +0800
+
+    oop_wip2
+
+[33mcommit cb048b1d20a373205ba3015a519b679b4203d04f[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Dec 16 15:41:30 2016 +0800
+
+    oop wip2
+
+[33mcommit 98e1fcf139b9319a351d6d45d022e252ad7b2f8c[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Thu Dec 8 21:10:24 2016 +0800
+
+    oop WIP
+
+[33mcommit 51cf69294f06ac20433167bc5b2393f93bf06bda[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Mon Dec 5 20:23:09 2016 +0800
+
+    OOP
+
+[33mcommit dab2fdd77a3e3101fd6e884ef61ff127d4b76bed[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Mon Dec 5 17:29:18 2016 +0800
+
+    module finnished
+
+[33mcommit a6e9c20f3f7ecf4f6ca19b6a08fe07434fceaf53[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Dec 2 15:50:14 2016 +0800
+
+    sorted
+
+[33mcommit 99ff52c0f5b9e574417fb5e813eb735c47910fd6[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Wed Nov 30 15:30:39 2016 +0800
+
+    reg
+
+[33mcommit f7c1dffc3f0a5b4a34425af0f12624c53defdb8c[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sat Nov 26 22:38:54 2016 +0800
+
+    filter
+
+[33mcommit ddd6032de74cf9715f2e8d9535453a542e1380b9[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Nov 18 21:06:43 2016 +0800
+
+    the type map return
+
+[33mcommit 3e5e173d9dab31d1afd0b54f23cbbb31e689dd26[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Wed Nov 2 00:53:57 2016 +0800
+
+    mapreduce
+
+[33mcommit 89a871f05dad6bd2373056e8715a7dc666db0000[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Sat Oct 29 00:37:21 2016 +0800
+
+    functional programming
+
+[33mcommit 540f89c7567e2685fc9d9c9e861732dbd753ba5b[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Oct 28 11:44:59 2016 +0800
+
+    start multiprocessing
+
+[33mcommit 7f85753f40ced1db858376cdfd8e1f0010f2a019[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Fri Oct 28 00:12:21 2016 +0800
+
+    finish advanced character
+
+[33mcommit 3471e75b621e21526453e344718c9a15891ba751[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Thu Oct 27 22:09:16 2016 +0800
+
+    advanced_character
+
+[33mcommit 3accb1d26dc8410be7d9131d5f93ea10ed6c8ed5[m
+Author: esdream <conquerfu@gmail.com>
+Date:   Wed Oct 26 13:45:26 2016 +0800
+
+    learn function
