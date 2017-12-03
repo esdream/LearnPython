@@ -2,12 +2,15 @@ import argparse
 def parser_args_test():
     parser = argparse.ArgumentParser()
     group = parser.add_mutually_exclusive_group()
-    group.add_argument("-v", "--verbpse", action="store_true")
+    group.add_argument("-v", "--verbose", action="store_true")
     group.add_argument("-q", "--quiet", action="store_true")
     parser.add_argument("x", type=int, help="the base")
     parser.add_argument("y", type=int, help="the exponent")
+    parser.add_argument("square", type=int, help="answer prameter")
     # parser.add_argument("-v", "--verbosity", help="increase output verbosity", action="count", default=0)
-    args = parser.parse_args()
+    args, _ = parser.parse_known_args()
+    print(args)
+    print(_)
     answer = args.square ** 2
     # if(args.verbosity >= 2):
     #     print("the sqaure of {} equals {}".format(args.square, answer))
